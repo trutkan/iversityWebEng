@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+.first th{
+	text-align:center;
+	background-color:#01129A;
+	color:white;
+	padding:8px;
+	font-weight:bolder;
+	margin:8px;
+	font-size:18px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+
+td {
+	text-align:center;
+	background-color:lightblue;
+	color:green;
+	font-weight:bolder;
+	font-size:14px;
+	padding:6px;
+
+}
+
+th {
+	color:navy;
+	font-weight:bolder;
+	background-color:lightgray;
+	font-size:16px;
+	font-family:"Franklin Gothic Bold", "Arial Black", sans-serif
+}
+
+table {
+	border-style:groove;
+	border-color:gray;
+	outline-style:double;
+	outline-width:thin;
+	outline-color:blue;
+}
